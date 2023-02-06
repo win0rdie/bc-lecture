@@ -1,0 +1,12 @@
+.container {
+  background-color: rgb(80, 80, 209);
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+}
+
+.container h2 {
+  margin: 0;
+}
